@@ -4,6 +4,19 @@ In this assignment you will create some basic PHP functions and generate some si
 
 Notation: "Blah [foo|bar] blah" means that the this should either be "Blah foo blah" or "Blah bar blah" depending on context.
 
+Directory Structure
+-------------------
+You should have the following directory structure (capitalization is important):
+
+  - Repository Root
+    - Assignment5
+      - src //Your files go in here
+      - tests //Test that we eventually right will go here
+ 
+Getting an A
+------------
+Nothing additional is required to get an A in this assignment.
+
 multtable.php
 -------------
 This file should accept 4 parameters passed via the URL in a GET request.
